@@ -6,8 +6,8 @@ Temp/
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-/Logs/
-/UserSettings/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 *.csproj
 *.unityproj
 *.sln
