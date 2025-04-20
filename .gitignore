@@ -1,0 +1,14 @@
+Temp/
+# Unity 标准忽略规则
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+/Logs/
+/UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
